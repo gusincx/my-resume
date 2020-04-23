@@ -51,17 +51,19 @@
 
 跟着[李卫明](https://www.funtl.com/)练习过[Spring Cloud分布式项目](https://github.com/yukiloh/spring-cloud-project)
 
-个人是比较佩服他的，因为帮我修正了许多小项目根本无法体现的毛病
+个人是比较佩服他的，因为他的项目中帮我修正了许多原来小项目根本无法体现的毛病
 
 比如打断点（对，之前我都不熟悉打断点，但大项目教做人）
 
-里氏替换、最小知识的具体应用（API的设计时）等
+里氏替换、最小知识的具体应用（返回类型设计）等
 
-小问题一旦放到大环境中立刻凸显其弊端，因此这之后个人的代码质量直线上升
+抽象类和接口的真实用法（没有实际开发过之前可能根本没想到原来抽象类时这么用的）
 
-因此有去了解[六大设计原则](https://www.jianshu.com/p/8a9bc8d42727)和[23种设计模式](https://www.jianshu.com/p/3f9e289cf51c)，我希望面试不要问这方面的问题，原因的话面试官不会想知道的
+一些小问题一旦放到大环境中立刻凸显其弊端，修正之后这之后个人的代码质量直线上升
 
-此外也有练习过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，感受到前后端分离的好处因此更加鄙视jsp
+同时为此有去了解[六大设计原则](https://www.jianshu.com/p/8a9bc8d42727)和[23种设计模式](https://www.jianshu.com/p/3f9e289cf51c)，我希望面试不要问这方面的问题，原因的话面试官不会想知道的
+
+此外也有练习过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，充分感受到前后端分离真的好使，thymeleaf都相形见绌，更别提jsp这种违背了迪米特原则的设计了
 
 对于数据库，因为不喜欢写SQL所以是JPA派，对于现在小厂跟风学阿里mybatis满地跑的情况无奈+同情
 
@@ -69,9 +71,13 @@
 
 了解过[B-Tree](https://www.jianshu.com/p/4dcfd7085a85)，同样，如果面试要问的话希望提前告知，我是实战派，对理论知识比较易忘
 
+对于xml有固执的厌恶，spring boot的项目宁可找一天资料也不写xml（除了数据库表生成的逆向工程mybatis plus generator）
+
+比如在自己的[域名](https://murasakichigo.xyz/login)在实现的权限登录时选择了shiro，但他spring boot后的兼容文献非常少，最后通过@Bean替换了所有.xml的配置
+
 对于算法比较薄弱，只做完了LeetCode的Easy部分
 
-Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8换红黑，因为我只知道这个，感谢[张博](https://github.com/blindpirate)，这是我学习过程中唯三认可的老师
+Java源码没怎么看过，如果会面试我希望你能问我为什么hashMap桶8换红黑，因为我只知道这个，感谢[张博](https://github.com/blindpirate)，这是我学习过程中唯三认可的老师
 
 因为性格原因，不喜欢麻烦别人，所以有系统的了解过Linux可以独立部署服务器（没有link，因为当时是手写笔记）
 
@@ -79,7 +85,7 @@ Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8�
 
 [GCP](https://cloud.google.com/)或是[AWS](https://amazonaws-china.com/cn/)者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
 
-我觉得你应该没理解**什么是国内的任何vps商**，可以参考这张图
+我觉得你应该没理解什么是**国内的任何vps商**，可以参考这张图
 
 ![img](https://raw.githubusercontent.com/yukiloh/my-image-repo/master/622762d0f703918f9295ff06543d269758eec4b2.jpg)
 
