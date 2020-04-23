@@ -77,7 +77,7 @@ Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8�
 
 日常应用有搭建[DST服务器](https://editor.csdn.net/md/?articleId=90378120)，或靠着家里的nas参与着[全球最成功之一的分布式项目](https://ehwiki.org/wiki/Installing_H@H_on_Debian_or_Ubuntu)赚买水的钱
 
-[GCP](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwijjJXbmf7oAhX0nsIKHen4A5kYABAAGgJ0bQ&ohost=www.google.com&cid=CAESQOD2QgeRS138GQDpgmvFfFrifE7IQ9tSBDsQr2ykUJ7z4Q-OD4vRxwhMb54GHwLx-R7YRcO-4fFYlBNSLBiACeE&sig=AOD64_3PXs_wxpfDY7_qDymfpa01_uOuWQ&q=&ved=2ahUKEwjn643bmf7oAhUOfnAKHXfBDOEQ0Qx6BAgYEAE&adurl=)或是[AWS](https://amazonaws-china.com/cn/)者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
+[GCP](https://cloud.google.com/)或是[AWS](https://amazonaws-china.com/cn/)者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
 
 我觉得你应该没理解，可以参考这张图
 
