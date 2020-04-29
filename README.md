@@ -39,41 +39,55 @@
 
 疫情前曾获得了赴日工作的机会，但现在签证终未出，遂弃
 
-目前主语言Java，虽大学时期便入门Python，但对动态语言始终不得要领,因此非常感谢[石川](https://ke.qq.com/teacher/258248832)让我的JavaScript有很大的提高
+目前主语言Java，虽大学时期便入门Python，但对动态语言始终不得要领
 
-另外本人对学习能力比较自信,因为Java没有指针故19年末突发奇想[14天看完了Golang](https://github.com/yukiloh/golang-basic-project),对基本/引用类型有更深的了解外,同时也体会到golang的招牌协程与channel之间配合的优美
+因此非常感谢[石川](https://ke.qq.com/teacher/258248832)让本人的JavaScript有很大的提升
 
-主修Web后端，基本[围绕SpringBoot](https://github.com/yukiloh/spring-boot-basic-project)展开
+此外对个人的学习能力比较自信
+
+因为Java没有指针但又想一探究竟的缘故，19年末突发奇想[14天看完了Golang](https://github.com/yukiloh/golang-basic-project)
+
+所以对基本/引用类型有更深的了解,同时也体会到golang的招牌协程与channel之间配合的优美
+
+主修Web后端，基本[围绕SpringBoot](https://github.com/yukiloh/spring-boot-basic-project)展开，如果可能请不要在面试中问我spring boot的原理，我觉得有点多我背功不是很好
 
 曾跟随[李卫明](https://www.funtl.com/)实操过[Spring Cloud分布式项目](https://github.com/yukiloh/spring-cloud-project)
 
-对于此类项目中的所需要的服务发现注册、数据监控等有所了解，并在此过程中掌握了
+对于此类项目中的所需要的服务发现注册、数据监控等有所了解，并在此过程中掌握了：
 
-打断点（没错，之前本人都曾不熟悉打断点，因此之后的开发都奉承了测试先行）
+- 打断点（没错，之前本人都曾不熟悉打断点，因此之后的开发都奉承了测试先行）
 
-一些设计概念的实际运用（比如api设计中需要贯彻的里氏替换、最小知识，本人闲余喜欢[“了解”](https://github.com/yukiloh/my-harmless-bomber)他站的登陆/api接口用于练习）
+- 一些设计概念的实际运用（比如api设计中需要贯彻的里氏替换、最小知识，本人闲余喜欢[“了解”](https://github.com/yukiloh/my-harmless-bomber)他站的登陆/api接口用于练习）
 
 因此有去了解[六大设计原则](https://www.jianshu.com/p/8a9bc8d42727)和[23种设计模式](https://www.jianshu.com/p/3f9e289cf51c)，我希望面试不要问这方面的问题，原因的话面试官不会想知道的
 
-此外也有了解过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，感受到前后端分离的好后，希望以后的开发可以不要遇到jsp
+此外也有实战过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，感受到前后端分离的好后，希望以后的开发可以不要遇到jsp
 
-对于数据库，我觉得这是我最薄弱的环节，因为没有很好的环境和数据来联系
+对于数据库，我觉得这是我最薄弱的环节，因为没有很好的环境和数据来进行练习
 
-因为不喜欢写SQL所以是JPA派，对于现在小厂跟风学阿里mybatis满地跑的情况无奈，本人即使在mybatis的项目中依然喜欢使用类JPA的通用[Mapper](https://github.com/abel533/Mapper)
+因为不喜欢写SQL所以是JPA派，对于现在小厂跟风学阿里mybatis满地跑的情况无奈，本人即使在mybatis的项目中依然喜欢使用类JPA的[通用Mapper](https://github.com/abel533/Mapper)
 
-比起MySQL更喜欢MariaDB，因为[AWS](https://amazonaws-china.com/cn/)和[GCP](https://cloud.google.com/)的vps都已经替换为Maria
+比起MySQL更喜欢MariaDB，因为[AWS](https://amazonaws-china.com/cn/)和[GCP](https://cloud.google.com/)的vps都已经替换为Maria，原因，你懂的
 
-对oracle有好感，但对[Oracle](https://www.oracle.com/index.html)没有
+![](https://raw.githubusercontent.com/yukiloh/my-image-repo/master/u%3D300752400%2C1426694959%26fm%3D26%26gp%3D0.jpg)
+
+同时，对oracle有好感，但对[Oracle](https://www.oracle.com/index.html)没有
 
 了解过[B-Tree](https://www.jianshu.com/p/4dcfd7085a85)，同样，如果面试要问的话希望提前告知，我是实战派，对理论知识比较易忘
 
-对于算法比较薄弱，只做完了LeetCode的Easy部分
+对于算法比较薄弱，只做完了LeetCode的Easy部分，尽管如此，仍然很大程度提高了我对数据结构、底层知识的了解
 
-Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8换红黑，因为我只知道这个，感谢[张博](https://github.com/blindpirate)，这是我学习过程中唯三认可的老师
+Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8换红黑，因为我只知道这个
 
-因为性格原因，不喜欢麻烦别人，所以有系统的了解过Linux可以独立部署服务器（没有link，因为当时是手写笔记，如果你愿意可以参观[如何部署DST服务器](https://editor.csdn.net/md/?articleId=90378120)）
+感谢[张博](https://github.com/blindpirate)，这是我学习过程中唯三认可的老师
 
-该说的基本都说了，如果你还愿意看到这里我觉得轻松一下
+因为性格原因，不喜欢麻烦别人，所以有系统的了解过Linux，可以独立进行服务器部署（此处没有link，因为是手写笔记，如果你愿意可以参观[如何部署DST服务器](https://editor.csdn.net/md/?articleId=90378120)）
+
+最后，该说的基本都说了，我见过和我同期的培训班的最后送外卖，也遇到过科班出身的发言使我不得不各种搜索引擎去了解他到底说了什么
+
+以我目前对编程的理解可能还尚浅，但他着实为我的生活或是工作提供了很大“便利”（当然有那方面的）
+
+感谢阁下看到了这里，我觉得最后不如轻松一下
 
 既然提到了vps，[GCP](https://cloud.google.com/)或是[AWS](https://amazonaws-china.com/cn/)或者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
 
