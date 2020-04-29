@@ -11,12 +11,12 @@
 
 ### 写在前头
 
-本人没有实际项目经验，没有实际项目经验，没有实际项目经验
+本人**没有实际项目经验**，**没有实际项目经验**，**没有实际项目经验**
 
-如果你是十年前那群klz来klz毕业的人士麻烦请直接关闭本页面
+如果阁下硬性要求必须有，实属抱歉，请关闭本页面
 
 ### 基础信息
-姓名：参见app
+姓名：参见app或其他投递渠道
 
 邮箱：yukiloh$live.cn(替换@)
 
@@ -29,43 +29,41 @@
 
 ### 简介
 
-早年留学日本，可惜方向没选好，最后毕业=失业。
+早年留学日本，可惜专业太偏，林业局普遍不愿意雇佣外国人，最后毕业=失业
 
-如果你硬说我语言不过关那可以反驳一下的
+阁下可能会觉得是因为语言不过关，那本人可以举个例子反驳一下
 
-4年间整个学科除了我没有一个会说中文的，如果日常交流能靠眼神我应该也是天赋异禀
+4年间整个学科除了我没有一个外国人，如果日常交流能靠眼神本人应该也是天赋异禀的吧
 
-回国后干了两年文职发现自己还是喜欢[CS](https://en.wikipedia.org/wiki/Computer_science)，遂待业在家重修
+回国后干了两年日语相关文职后发现自己还是喜欢[CS](https://en.wikipedia.org/wiki/Computer_science)，遂待业在家重造
 
-疫情前倒是获得了赴日工作的机会，但现在
+疫情前曾获得了赴日工作的机会，但现在签证终未出，遂弃
 
-![img](https://raw.githubusercontent.com/yukiloh/my-image-repo/master/timg.jpg)
+目前主语言Java，虽大学时期便入门Python，但对动态语言始终不得要领,因此非常感谢[石川](https://ke.qq.com/teacher/258248832)让我的JavaScript有很大的提高
 
-目前主语言Java。虽然当年入门是Python，但基本已忘光
+另外本人对学习能力比较自信,因为Java没有指针故19年末突发奇想[14天看完了Golang](https://github.com/yukiloh/golang-basic-project),对基本/引用类型有更深的了解外,同时也体会到golang的招牌协程与channel之间配合的优美
 
-可能因为不喜欢动态语言，如果不是开什么公司都能倒闭的石川Blue我的Javascript也会非常糟糕
+主修Web后端，基本[围绕SpringBoot](https://github.com/yukiloh/spring-boot-basic-project)展开
 
-19年末突发奇想[14天看完了Golang](https://github.com/yukiloh/golang-basic-project)后对其无比崇拜，但是信仰毕竟不能当饭吃，没有七云牛的代理在墙内连更新都做不到
+曾跟随[李卫明](https://www.funtl.com/)实操过[Spring Cloud分布式项目](https://github.com/yukiloh/spring-cloud-project)
 
-主修Web，基本[围绕SpringBoot](https://github.com/yukiloh/spring-boot-basic-project)展开
+对于此类项目中的所需要的服务发现注册、数据监控等有所了解，并在此过程中掌握了
 
-跟着[李卫明](https://www.funtl.com/)练习过[Spring Cloud分布式项目](https://github.com/yukiloh/spring-cloud-project)
+打断点（没错，之前本人都曾不熟悉打断点，因此之后的开发都奉承了测试先行）
 
-个人是比较佩服他的，因为帮我修正了许多小项目根本无法体现的毛病
-
-比如打断点（对，之前我都不熟悉打断点，但大项目教做人）
-
-里氏替换、最小知识的具体应用（API的设计时）等
-
-小问题一旦放到大环境中立刻凸显其弊端，因此这之后个人的代码质量直线上升
+一些设计概念的实际运用（比如api设计中需要贯彻的里氏替换、最小知识，本人闲余喜欢[“了解”](https://github.com/yukiloh/my-harmless-bomber)他站的登陆/api接口用于练习）
 
 因此有去了解[六大设计原则](https://www.jianshu.com/p/8a9bc8d42727)和[23种设计模式](https://www.jianshu.com/p/3f9e289cf51c)，我希望面试不要问这方面的问题，原因的话面试官不会想知道的
 
-此外也有练习过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，感受到前后端分离的好处因此更加鄙视jsp
+此外也有了解过[vue-cli的项目](https://github.com/yukiloh/my-vue-shop-project)，感受到前后端分离的好后，希望以后的开发可以不要遇到jsp
 
-对于数据库，因为不喜欢写SQL所以是JPA派，对于现在小厂跟风学阿里mybatis满地跑的情况无奈+同情
+对于数据库，我觉得这是我最薄弱的环节，因为没有很好的环境和数据来联系
 
-比起MySQL更喜欢MariaDB，对oracle有好感，但对[Oracle](https://www.oracle.com/index.html)没有
+因为不喜欢写SQL所以是JPA派，对于现在小厂跟风学阿里mybatis满地跑的情况无奈，本人即使在mybatis的项目中依然喜欢使用类JPA的通用[Mapper](https://github.com/abel533/Mapper)
+
+比起MySQL更喜欢MariaDB，因为[AWS](https://amazonaws-china.com/cn/)和[GCP](https://cloud.google.com/)的vps都已经替换为Maria
+
+对oracle有好感，但对[Oracle](https://www.oracle.com/index.html)没有
 
 了解过[B-Tree](https://www.jianshu.com/p/4dcfd7085a85)，同样，如果面试要问的话希望提前告知，我是实战派，对理论知识比较易忘
 
@@ -73,32 +71,31 @@
 
 Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8换红黑，因为我只知道这个，感谢[张博](https://github.com/blindpirate)，这是我学习过程中唯三认可的老师
 
-因为性格原因，不喜欢麻烦别人，所以有系统的了解过Linux可以独立部署服务器（没有link，因为当时是手写笔记）
+因为性格原因，不喜欢麻烦别人，所以有系统的了解过Linux可以独立部署服务器（没有link，因为当时是手写笔记，如果你愿意可以参观[如何部署DST服务器](https://editor.csdn.net/md/?articleId=90378120)）
 
-日常应用有搭建[DST服务器](https://editor.csdn.net/md/?articleId=90378120)，或靠着家里的nas参与着[全球最成功之一的分布式项目](https://ehwiki.org/wiki/Installing_H@H_on_Debian_or_Ubuntu)赚买水的钱
+该说的基本都说了，如果你还愿意看到这里我觉得轻松一下
 
-[GCP](https://cloud.google.com/)或是[AWS](https://amazonaws-china.com/cn/)者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
+既然提到了vps，[GCP](https://cloud.google.com/)或是[AWS](https://amazonaws-china.com/cn/)或者国内的运营商的vps都用过，我认为GCP > AWS >> 国内任何vps商
 
-我觉得你应该没理解**什么是国内的任何vps商**，可以参考这张图
+我觉得阁下应该没理解**什么是国内的任何vps商**，可以参考这张图
 
 ![img](https://raw.githubusercontent.com/yukiloh/my-image-repo/master/622762d0f703918f9295ff06543d269758eec4b2.jpg)
 
 
 ### 在校经历
-- 2006~2009 上海戏剧学院附属高等中学
-- 2009~2011 上海托普信息技术学校
+- 2009~2011 上海戏剧学院附属高等中学
 - 2011~2013 东京美罗斯语言学校
 - 2013~2017 东京农业大学 环境学部林科
 
 ### 工作经历
 
-（隐藏了公司名）
+（隐藏了公司名，请谅解）
 
 - 2017.9~2018.5 上海某齿科培训公司
 
-简介：邀请日本医师来华授课，为国内口腔医生、护士进行培训
+简介：邀日本牙医来华授课，为国内医生、护士提供培训服务
 
-工作内容：网络运营（公司主页、网络视频课程、公众号），课件翻译、接待讲师
+工作内容：网络运营（主页、网络课程、公众号），课件翻译、接待讲师，临时充当网管
 
 离职理由：课招不到人，公司倒闭
 
@@ -113,9 +110,9 @@ Java源码没看过，如果会面试我希望你能问我为什么hashMap桶8�
 
 ### 最后
 
-我经常受到无能还不知趣的三流猎头来自以为是在推荐职位得骚扰我
+本人在求职期间经常受到无能还不知趣的三流猎头来自以为是在推荐职位的骚扰
 
-所以没有填写“常用”联系方式
+故而没有填写“常用”联系方式
 
 如果你觉得“诶呀这个小朋友说话图样图森破我很恩格瑞要打电话教训一下”
 
